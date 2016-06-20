@@ -1,0 +1,6 @@
+{
+  "name": "ZBL Smart Home Blog",
+  "tagline": "Adventures in home automation",
+  "body": "### Welcome to the ZBL Smart Home Blog\r\nI recently purchased a new home, and am pursuing a comprehensive home automation solution to control my locks, alarms, smoke detectors, thermostats, irrigation system, and garage doors; with geofencing and per-user presets based on time of day and who's home.\r\n\r\nThe solution will be largely based on off-the-shelf solutions, including\r\n* XFinity Home central station alarm \r\n* August HomeKit enabled door locks\r\n* Nest thermostats \r\n* Nest cameras\r\n* Nest or XFinity Home smoke alarms\r\n* MyQ garage door controls\r\n\r\nThe system will be fully HomeKit enabled, using HomeBridge for those components that don't support HomeKit out of the box.\r\n\r\nI'll use this space to post individual projects, and progress along the way!",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
